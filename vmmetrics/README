@@ -1,0 +1,2 @@
+This is a companion to mem_stat.py. It provides additional metrics not accesible
+from python.
